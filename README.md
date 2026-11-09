@@ -30,6 +30,7 @@
 
 Site estático responsivo para apresentar desenvolvimento Full Stack, Lookdev 3D, formação e contatos.
 <a href="https://sofiaoliveiragoncalves.netlify.app/">Portfólio</a>
+Que tal uma playlist montada estrategicamente para descontrair, produzir ou para um brainstorming?
 <a href="https://open.spotify.com/playlist/0GAoxKPI9WdYt6ZKD1L1VH?si=rKp-sqxbQY66hEyAbYe17w">Spotify</a>
 
 ## Sobre mim
